@@ -1,0 +1,221 @@
+<resources>
+    <string name="app_name">Tirumala - Visiting Guide</string>
+    <string name="how_to_reach_tirupati">
+    Tirupati is a major pilgrimage city in Andhra Pradesh, India, known for the sacred Tirumala Venkateswara Temple. It is well connected by road, rail, and air, making it accessible from all parts of India.\n\n
+    ✈️ By Air:\n
+    Nearest Airport: Tirupati Airport (TIR), located about 15 km from the city center.\n
+    Flights Available: Regular flights from major cities like Hyderabad, Chennai, Bangalore, and Visakhapatnam.\n
+    From Airport to City: Taxis and APSRTC buses are available at the airport for easy access to Tirupati.\n\n
+    🚆 By Train:\n
+    Tirupati Railway Station (TPTY) is a major junction in South Central Railway.\n
+    Well Connected To: Chennai, Hyderabad, Bangalore, Mumbai, Delhi, and other cities.\n
+    Special Trains: During peak pilgrimage seasons, additional trains are run for devotees.\n
+    Other Stations Nearby: Renigunta Junction (RU) – 10 km from Tirupati, serves as a backup or alternate station.\n\n
+    🚌 By Road:\n
+    State Transport Buses: APSRTC operates frequent buses from nearby cities and towns like Chennai (150 km), Bangalore (250 km), and Hyderabad (560 km).\n
+    Private Buses: Multiple private operators provide daily services to Tirupati.\n
+    Taxis and Cabs: Easily available from major nearby cities.\n
+    Self-Drive: Excellent road connectivity through National and State Highways.</string>
+
+    <string name="how_to_reach_tirumala">
+    Tirumala, the hill shrine of Lord Venkateswara, is located about 22 km from Tirupati. Devotees can reach Tirumala from Tirupati through various convenient options.\n\n
+    🚌 By Bus:\n
+    APSRTC operates frequent buses every 5 to 10 minutes from Tirupati Central Bus Station, Railway Station, and Alipiri to Tirumala.\n
+    Buses are available 24x7, with both ordinary and express services.\n\n
+    🚕 By Taxi or Private Vehicle:\n
+    Taxis and private cabs are readily available from any point in Tirupati.\n
+    Vehicles are allowed through the Alipiri toll gate after a security check.\n
+    Special vehicle passes may be required during peak seasons.\n\n
+    🚶‍♂️ By Foot (Pilgrim Paths):\n
+    Devotees can also walk to Tirumala using traditional footpaths:\n
+    • Alipiri Mettu: ~9 km with 3550 steps, well-lit, open 24x7, with shelters and amenities.\n
+    • Srivari Mettu: ~2.1 km with 2388 steps, steeper but shorter, open from 6 AM to 6 PM.\n
+    Free luggage transport and tokens for special darshan are available for walkers.\n\n
+    All routes offer scenic views and spiritual experiences, making the journey to Tirumala a memorable part of the pilgrimage.</string>
+
+    <string name="sarva_darshanam">
+    Sarva Darshanam refers to the free darshan (viewing) of Lord Venkateswara at the Tirumala Temple. It is intended for all devotees and does not require payment. Pilgrims are allowed to have darshan without purchasing any special ticket.\n\n
+    🕒 Timings:\n
+    Sarva Darshan is available almost throughout the day, with small breaks for temple rituals.\n
+    During high rush, token-based time slots may be issued.\n
+    On certain festival days, timings may vary or get temporarily suspended.\n\n
+    🏷️ Tickets / Tokens:\n
+    Free time slot tokens are issued in Tirupati at various centers like:\n
+    - Srinivasam Complex (Opp. RTC Bus Stand)\n
+    - Vishnu Nivasam\n
+    - Bhudevi Complex (Alipiri)\n
+    Tokens are issued on a first-come, first-served basis and contain a specific time slot.\n\n
+    🚶‍♂️ Entry Point:\n
+    Devotees with free darshan tokens should report to the Vaikuntham Queue Complex II at Tirumala at the allotted time.\n
+    For devotees who walk via Alipiri or Srivari Mettu, special token counters are available on the path.\n\n
+    🛑 Important Guidelines:\n
+    - Carry a valid photo ID proof (Aadhaar, Voter ID, etc.)\n
+    - Bags, phones, and electronics are not allowed inside the temple.\n
+    - Facilities like luggage counters and waiting halls are available.\n\n
+    Pro Tip:\n
+    To avoid long waiting hours, plan your visit on weekdays and avoid festival days when pilgrim rush is high.</string>
+
+    <string name="divya_darshanam">
+    Divya Darshanam is a special privilege for devotees who reach Tirumala on foot through the Alipiri Mettu or Srivari Mettu walking paths. It provides quicker access to darshan compared to the general Sarva Darshan queue.\n\n
+    🚶‍♂️ Who is Eligible:\n
+    Only those who climb the hill by foot via:\n
+    - Alipiri Mettu (approx. 9 km, open 24x7)\n
+    - Srivari Mettu (approx. 2.1 km, open from 6 AM to 6 PM)\n
+    Devotees must collect biometric tokens during the climb to avail Divya Darshan.\n\n
+    🕒 Timings:\n
+    Divya Darshan tokens are available from early morning until the allowed limit is reached for the day.\n
+    The darshan timing depends on the crowd, and token contains a time slot.\n\n
+    🏷️ Token Facilities:\n
+    - Free biometric tokens issued at designated counters on the walking paths.\n
+    - Luggage transport is available free of cost at the base of the steps.\n
+    - Devotees receive a time slot for darshan upon reaching Tirumala.\n\n
+    🛑 Guidelines:\n
+    - Tokens are available only for walkers — not for those using vehicles.\n
+    - Carry original photo ID proof.\n
+    - Follow instructions from TTD staff and maintain discipline in queues.\n\n
+    Divya Darshanam encourages spiritual discipline and rewards those who make the physical effort to reach the temple on foot.</string>
+
+    <string name="akasa_ganga">
+    Akasa Ganga is a sacred waterfall located near the Tirumala Temple. It holds great religious significance and is believed to originate from the feet of Lord Venkateswara. The holy water from Akasa Ganga is used daily for the Lord’s abhishekam (ritual bathing) in the temple.\n\n
+    🌊 Spiritual Importance:\n
+    - Considered divine, the water is used in temple rituals every morning.\n
+    - It is believed that a dip here cleanses sins and grants spiritual merit.\n
+    - The waterfall is mentioned in ancient scriptures and is revered by devotees.\n\n
+    🧭 Location:\n
+    - Around 3 km from the main temple.\n
+    - Easily accessible by road via shared taxis, jeeps, or TTD buses.\n
+    - Surrounded by lush greenery and hills, offering a peaceful environment.\n\n
+    🛕 Special Feature:\n
+    - A small shrine near the waterfall allows pilgrims to offer prayers.\n
+    - During festivals, the area is decorated and visited by thousands.\n\n
+    ⚠️ Important Notes:\n
+    - The flow is natural and depends on the season (heavier during monsoons).\n
+    - Bathing is allowed in designated safe areas; be cautious of slippery rocks.\n
+    - Follow TTD safety guidelines and avoid littering in the holy spot.</string>
+
+    <string name="papa_vinasanam">
+    Papavinasanam is one of the most sacred water bodies in Tirumala. The name literally means "Destruction of Sins". It is believed that a holy bath in the waters of Papavinasanam cleanses devotees of their past sins and brings spiritual peace.\n\n
+    🌊 Religious Significance:\n
+    - According to legend, this waterfall was created by Lord Venkateswara to bless devotees.\n
+    - Bathing here is considered equivalent to performing major rituals to attain purification.\n
+    - The water from this stream is also used for temple rituals.\n\n
+    🧭 Location:\n
+    - Around 5 km from the Tirumala temple, deep into the hills.\n
+    - TTD buses and taxis are available frequently from the main temple area.\n
+    - The route offers a scenic and peaceful journey through forested hills.\n\n
+    🏞️ Features:\n
+    - A dam has been constructed by TTD to regulate the flow of the waterfall.\n
+    - Designated bathing areas are provided for pilgrims, with safety measures in place.\n
+    - Changing rooms and basic amenities are available nearby.\n\n
+    ⚠️ Important Notes:\n
+    - Water flow may vary by season — stronger during monsoon months.\n
+    - Pilgrims are advised to be cautious while stepping on wet stones.\n
+    - Maintain cleanliness and follow all instructions from temple staff.</string>
+
+    <string name="special_entry_darshanam">
+    Special Entry Darshanam, also known as ₹300 Darshan, is a paid darshan facility for quicker access to Lord Venkateswara. It is ideal for devotees who prefer a scheduled and faster darshan experience.\n\n
+    💵 Ticket Price:\n
+    - ₹300 per person (includes one free Laddu)\n\n
+    📝 Booking Process:\n
+    - Book online only at https://tirupatibalaji.ap.gov.in\n
+    - Advance booking required with valid photo ID\n
+    - Monthly quotas are released on the TTD website\n\n
+    🕒 Darshan Timings:\n
+    - Time slots available from 9:00 AM to 5:00 PM\n
+    - Report at Vaikuntam Queue Complex 30 minutes before slot\n\n
+    ⚠️ Important Guidelines:\n
+    - Valid photo ID is required at entry\n
+    - Children below 12 years do not need a ticket\n
+    - Dress code is mandatory (Men: Dhoti, Women: Saree or Churidar)\n
+    - No cancellations or refunds once booked</string>
+
+    <string name="vip_darshanam">
+    VIP Darshanam, also known as Break Darshan, is a special darshan provided during breaks in temple rituals. It is reserved for high-ranking officials, TTD donors, and those with approved recommendation letters.\n\n
+    👤 Who Is Eligible:\n
+    - Ministers, Judges, IAS/IPS officers, etc.\n
+    - TTD donors and trust board members\n
+    - Devotees with recommendation letters from MPs, MLAs, etc.\n
+    - TTD employees (on specific days)\n\n
+    🕒 Timings:\n
+    - Usually between 6:30 AM and 7:00 AM, before regular darshan\n
+    - May vary based on daily temple schedule\n\n
+    📝 How to Apply:\n
+    - Submit recommendation letters a day before at the JEO camp office, Tirumala\n
+    - TTD will approve and issue tickets based on eligibility\n\n
+    💵 Ticket Cost:\n
+    - ₹500 per person (includes 1 Laddu)\n\n
+    🛑 Important Notes:\n
+    - Entry is strictly based on approval\n
+    - Dress code is mandatory (Men: Dhoti, Women: Saree or Churidar)\n
+    - Carry valid photo ID proof at the entry gate</string>
+
+    <string name="venu_gopala_swamy_temple">
+    Sri Venu Gopala Swamy Temple is a serene temple in Tirumala dedicated to Lord Krishna in his divine form as Venu Gopala, the flute-playing cowherd. It is considered spiritually powerful and is believed to protect the Tirumala region.\n\n
+    🛕 Significance:\n
+    - Venu Gopala Swamy is regarded as the guardian deity (Kshetrapalaka) of Tirumala.\n
+    - The temple follows Vaishnava traditions and is maintained by TTD.\n
+    - Devotees visit for peace, protection, and divine blessings.\n\n
+    📍 Location:\n
+    - Situated near the Central Reception Office (CRO) in Tirumala.\n
+    - Easily reachable by foot or auto within Tirumala.\n\n
+    🕒 Timings:\n
+    - Open from 6:00 AM to 8:00 PM with ritual breaks.\n
+    - Timings may vary on festival days.\n\n
+    🙏 Highlights:\n
+    - Idol of Lord Krishna with flute and cows, radiating divine charm.\n
+    - Quiet environment ideal for personal worship and meditation.\n
+    - Maintained cleanly by TTD with minimal crowd.</string>
+
+    <string name="japali_hanuman_temple">
+    Japali Hanuman Temple is a sacred and peaceful shrine dedicated to Lord Hanuman, located deep in the forests of Tirumala. It is a spiritually powerful place where devotees seek strength, protection, and peace.\n\n
+    🛕 Religious Significance:\n
+    - Lord Hanuman is believed to have meditated here during Ramayana times.\n
+    - Lord Rama is also said to have visited this place.\n
+    - A holy pond called Japali Theertham nearby is believed to purify sins.\n\n
+    📍 Location:\n
+    - About 3–4 km from the Tirumala temple.\n
+    - Requires a short walk (~1 km) through a forest path.\n
+    - Easily reachable by TTD buses, autos, or private vehicles.\n\n
+    🕒 Temple Timings:\n
+    - Open from 6:00 AM to 6:00 PM every day.\n\n
+    🙏 Experience:\n
+    - Surrounded by greenery and calm forest atmosphere.\n
+    - Devotees chant “Jai Hanuman” while walking to the temple.\n
+    - Ideal place for meditation and offering prayers to Anjaneya Swamy.</string>
+
+    <string name="sila_thoranam">
+    Sila Thoranam is a rare and ancient natural rock arch in Tirumala, considered both a geological wonder and a spiritual landmark. It is the only rock arch of its kind in India and one of only two in all of Asia.\n\n
+    🪨 Historical &amp; Spiritual Significance:\n
+    - Formed millions of years ago through natural erosion.\n
+    - Believed to be the place where Lord Venkateswara stepped before reaching the temple.\n
+    - The arch resembles a serpent, a conch (Shankha), and a chakra—symbols of Lord Vishnu.\n\n
+    📍 Location:\n
+    - About 1 km from the Tirumala temple, near Chakra Teertham.\n
+    - Easily accessible by walk or vehicle, with forest views along the way.\n\n
+    🧭 Why Visit:\n
+    - A unique spot for nature and spiritual enthusiasts.\n
+    - Ideal for peaceful reflection and quiet photography.\n
+    - Maintained by TTD with proper signage.\n\n
+    🕒 Timings:\n
+    - Open daily from 6:00 AM to 6:00 PM.\n
+    - Entry is free for all visitors.</string>
+
+    <string name="srivari_padalu">
+    Srivari Padalu, meaning the holy feet of Lord Venkateswara, is a sacred site in Tirumala believed to be the exact place where the Lord first set foot on Earth. It is a place of deep spiritual significance.\n\n
+    🛕 Spiritual Significance:\n
+    - Contains impressions of the Lord’s feet on a stone surface.\n
+    - Believed to be the spot where Lord Venkateswara viewed the temple site.\n
+    - Devotees visit to offer prayers and touch the divine footprints.\n\n
+    📍 Location:\n
+    - Situated on the highest point of Tirumala hills, around 5 km from the main temple.\n
+    - Surrounded by scenic beauty and forest trails.\n
+    - Vehicles can reach close; final access is by steps.\n\n
+    🧭 Why Visit:\n
+    - Spiritually uplifting and peaceful atmosphere.\n
+    - Offers panoramic views of the Tirumala landscape.\n
+    - Ideal for meditation and quiet reflection.\n\n
+    🕒 Timings:\n
+    - Open daily from 6:00 AM to 6:00 PM.\n
+    - Entry is free and devotees are requested to maintain silence.</string>
+
+</resources>
