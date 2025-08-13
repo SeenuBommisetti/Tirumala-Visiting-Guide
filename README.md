@@ -55,4 +55,4 @@ Stay tuned for screenshots of the UI!
 
 ---
 
-## 💙 Made with devotion by [Seenu Bommisetti](https://github.com/Seenu-Bommisetti)
+## 💙 Made with devotion by [Seenu Bommisetti](https://github.com/SeenuBommisetti)
