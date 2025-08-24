@@ -36,23 +36,4 @@ An elegant and informative Android app built with Kotlin and Jetpack Compose to 
 
 ---
 
-## 🙌 Contribution
-
-Currently a solo project. Contributions and suggestions are welcome in future phases!
-
----
-
-## 📸 Screenshots *(coming soon...)*
-
-Stay tuned for screenshots of the UI!
-
----
-
-## 📌 Status
-
-✅ Version 1.0 Completed  
-🔜 Feature updates, live data integration planned
-
----
-
 ## 💙 Made with devotion by [Seenu Bommisetti](https://github.com/SeenuBommisetti)
